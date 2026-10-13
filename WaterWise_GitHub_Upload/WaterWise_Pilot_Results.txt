@@ -1,0 +1,18 @@
+WaterWise Pilot Results — Simulated Coursework Source
+
+All figures below are invented for a BUS5001 learning exercise. They are not actual university or chatbot results.
+
+R1 — Scenario A student is preparing a briefing for campus support officers about the WaterWise prototype. The student must explain its workflow, interpret the simulated figures and distinguish evidence from unsupported claims.
+
+R2 — Session outcomes There were 20 simulated sessions:
+
+- 12 ended with a completed, copyable report summary.
+- 4 ended with an urgent safety referral.
+- 2 were cancelled.
+- 2 ended with an uncertain-safety staff referral. These four outcome groups are mutually exclusive. A completed summary does not mean a ticket was submitted.
+
+R3 — Corrections and help Of the 12 completed summaries, 3 involved a location correction before confirmation. Across all 20 sessions, 5 included a help request. Help requests may overlap with any outcome group and must not be counted as additional sessions.
+
+R4 — Evidence limits No data were collected on litres of water saved, maintenance response times, repair completion, user satisfaction or learning improvement. The figures cannot establish environmental impact, production reliability or accessibility compliance.
+
+R5 — Training implications Support officers should understand consent, safety referral, minimal information collection, correction and manual forwarding of the summary. Students should calculate rates using the appropriate denominator and verify AI-generated claims against both supplied sources.
